@@ -1,0 +1,1 @@
+This is Trae's first git project!
